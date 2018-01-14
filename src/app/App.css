@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-header {
+  padding-top: 30px;
+}
+
+/* Code belongs to: https://github.com/tastejs/todomvc/blob/master/license.md */
+
+hr {
+    margin: 20px 0;
+    border: 0;
+    border-top: 1px dashed #c5c5c5;
+    border-bottom: 1px dashed #f7f7f7;
+}
